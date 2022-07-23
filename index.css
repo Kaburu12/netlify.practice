@@ -1,0 +1,12 @@
+body{
+	font-family: "Roboto";
+}
+
+#heading{
+	text-align: center;
+	background-color: aqua;
+}
+
+#body-part{
+	text-align: center;
+}
